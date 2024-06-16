@@ -1,7 +1,7 @@
 # BERT-Chinese-QA
 > 基于BERT的中文问答微调训练
 
-[![swanlab](https://img.shields.io/badge/BERT-SwanLab-438440)](https://swanlab.cn/@LiXinYu/Bert_fine-tuning/runs/fys4kohptcdt3odf9l3jt/chart)
+[![swanlab](https://img.shields.io/badge/BERT-SwanLab-438440)](https://swanlab.cn/@LiXinYu/Bert_fine-tuning/runs/ad9o8bbwrmy55lcg3f2y9/chart)
 
 ## 环境安装
 
@@ -68,7 +68,7 @@ swanlab.init(
 
 ## 训练
 
-训练过程可视化：[BERT-QA-Swanlab](https://swanlab.cn/@LiXinYu/Bert_fine-tuning/runs/fys4kohptcdt3odf9l3jt/chart)
+训练过程可视化：[BERT-QA-Swanlab](https://swanlab.cn/@LiXinYu/Bert_fine-tuning/runs/ad9o8bbwrmy55lcg3f2y9/chart)
 
 在首次使用SwanLab时，需要去[官网](https://swanlab.cn)注册一下账号，然后在[用户设置](https://swanlab.cn/settings)复制一下你的API Key。
 
